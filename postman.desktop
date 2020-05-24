@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Postman
+Icon=/opt/Postman/app/resources/app/assets/icon.png
+Comment=The Collaboration Platform for API Development
+Exec=/opt/Postman/Postman
+Version=7.25.0
+Type=Application
+Categories=Development;IDE;API;
+Terminal=false
